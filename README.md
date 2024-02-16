@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-Let me introduce myself, my name is Hallen Naafi Aliya Rachman
-I am a 5th semester Undergraduate Statistics Student at Padjadjaran University who has an interest in the fields of data analysis, administration, business, as well as digital marketing and branding. Active and has long organizational experience and participates in various internal and external committees. Have good communication, adaptation, teamwork skills and always focus on details and thoroughness in doing something. Able to operate various software such as R, Python, Minitab, Canva, Microsoft Office, and Google Suite.
+Let me introduce myself, my name is Hallen Naafi Aliya Rachman  
+I am a 5th semester Undergraduate Statistics Student at Padjadjaran University who has an interest in the fields of data analysis, administration, business, as well as digital marketing and branding.  
+Active and has long organizational experience and participates in various internal and external committees.  
+Have good communication, adaptation, teamwork skills and always focus on details and thoroughness in doing something.  
+Able to operate various software such as R, Python, Minitab, Canva, Microsoft Office, and Google Suite.
 
 ### Github Statistic
 <p align="left">
