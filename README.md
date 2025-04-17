@@ -2,7 +2,7 @@
 
 Let me introduce myself, my name is Hallen Naafi Aliya Rachman.  
 
-- I am a 5th semester Undergraduate Statistics Student at Padjadjaran University.
+- I am a Fresh graduate in Statistics from Padjadjaran University.
 
 - I have interests in data analysis, administration, business, as well as digital marketing and branding.
 
